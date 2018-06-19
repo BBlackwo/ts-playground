@@ -1,0 +1,27 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Typescript Playground",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BBlackwo/ts-playground.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "BBlackwo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BBlackwo/ts-playground/issues"
+  },
+  "homepage": "https://github.com/BBlackwo/ts-playground#readme",
+  "devDependencies": {
+    "@types/node": "~10.3.4",
+    "ts-node": "~6.1.1",
+    "typescript": "~2.9.2"
+  }
+}
